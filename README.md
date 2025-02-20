@@ -1,7 +1,6 @@
 # projetoweb
-projeto teste para aprender a criar repositorio
-* projeo web
-* Equipe
+
+## Equipe
 1. Camily
 2. Joice
 3. Rayla
